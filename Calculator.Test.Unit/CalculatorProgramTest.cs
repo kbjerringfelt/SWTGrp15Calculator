@@ -18,6 +18,7 @@ namespace CalculatorProgram.Test.Unit
         {
             _calculator = new Calculator();
         }
+        //HEJ
 
         [TestCase(1.00, 2.00 , 3.00)]
         [TestCase(1.00, 3.00, 4.00)]
